@@ -1,0 +1,10 @@
+{
+    "name": "Name",
+    "description": "This is a description. Isn't this fun?",
+    "version": "v1.0",
+    "date": "mm/dd/yyyy",
+    "developer": "Developer",
+    "icon": "icon.png",
+    "content_download": "content.zip",
+    "content_type": "addon"
+}

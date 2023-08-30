@@ -1,10 +1,10 @@
 {
-    "name": "Name",
-    "description": "This is a description. Isn't this fun?",
-    "version": "v1.0",
-    "date": "mm/dd/yyyy",
-    "developer": "Developer",
-    "icon": "icon.png",
-    "content_download": "content.zip",
-    "content_type": "addon"
+    "name": "Alley [Lookup Test]",
+    "description": "This is a description. Isn't this fun? Lookup sure is nifty.",
+    "version": "v1.1",
+    "date": "10/31/2022",
+    "developer": "nuken Dev Team",
+    "icon": "alley.jpg",
+    "content_download": "alley_theme.zip",
+    "content_type": "theme"
 }
